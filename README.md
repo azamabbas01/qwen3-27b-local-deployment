@@ -96,7 +96,7 @@ Test prompt: *"What is the CIA triad in cybersecurity?"* — the model correctly
 The complete report — 15 sections with 12 annotated screenshots covering GPU detection, compilation, model download, online inference, disabling internet access, and the final offline test — is available here:
 
 - [Report (PDF)](report/Assignment1_Local_AI_Deployment_Report.pdf)
-- [Report (DOCX)](report/Assignment1_Local_AI_Deployment_Report.docx)
+
 
 ## Key takeaways
 
