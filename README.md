@@ -109,4 +109,4 @@ Running a model offline keeps prompts and data off external services, which matt
 
 ## Authors
 
-Azam Abbas · Awaiz Ahmed · Abdul Rafey
+Azam Abbas · Awaiz Ahmed 
