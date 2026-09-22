@@ -86,9 +86,7 @@ Test prompt: *"What is the CIA triad in cybersecurity?"* — the model correctly
 ```
 .
 ├── README.md
-└── report/
-    ├── Assignment1_Local_AI_Deployment_Report.pdf
-    └── Assignment1_Local_AI_Deployment_Report.docx
+└── MODEL DEPLYMENT REPORT.pdf
 ```
 
 ## Full report
